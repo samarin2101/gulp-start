@@ -26,7 +26,10 @@
 /* Аккордеон  */
 
 // import * as Accordion from './vendors/accordion.js'
-// Accordion.accordion();
+// Accordion.accordion()
+
+// import AOS from 'aos'
+// AOS.init();
 
 
 
