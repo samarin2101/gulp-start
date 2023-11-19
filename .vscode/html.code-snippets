@@ -64,16 +64,7 @@
 	},
 
 
-	"checkbox": {
-		"prefix": "d-checkbox",
-		"body": [
-			"<div class=\"checkbox\">",
-			"<input type=\"checkbox\" name=\"check1\">",
-			"<label for=\"check1\" class=\"checkbox__label\">Текст какого-то чекбокса</label>",
-			"</div>"
-		],
-		"description": "checkbox"
-	},
+
 
   "accordion": {
     "prefix": "d-accordion",
